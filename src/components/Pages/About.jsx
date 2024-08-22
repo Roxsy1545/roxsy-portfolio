@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div>
             <Helmet>
-                <title>Lourity - Hakkımda</title>
+                <title>Roxsy - Hakkımda</title>
                 <meta name="description" content="Web tabanlı uygulamalar geliştiriyor ve Discord botları ile ilgileniyorum. Portföyüm ve becerilerim için URL lourity adresini ziyaret edin." />
                 <meta property="og:image" content="/logo.png" />
                 <meta name="theme-color" content="#0ea5e9" />
