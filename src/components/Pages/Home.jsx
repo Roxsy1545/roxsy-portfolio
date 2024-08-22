@@ -34,7 +34,7 @@ const Home = () => {
   return (
     <div>
       <Helmet>
-        <title>Lourity - Full Stack Geliştirici</title>
+        <title>Roxsy - Full Stack Geliştirici</title>
         <meta name="description"
           content="Web tabanlı uygulamalar geliştiriyor ve Discord botları ile ilgileniyorum. Portföyüm ve becerilerim için URL lourity adresini ziyaret edin." />
         <meta property="og:image" content="/logo.png" />
@@ -43,7 +43,7 @@ const Home = () => {
       <Navbar />
       <div className='flex justify-center py-48 text-center'>
         <div>
-          <h1 className='font-bold text-4xl sm:text-6xl'>Merhaba Ben <span className='text-sky-500 underline'>Lourity</span></h1>
+          <h1 className='font-bold text-4xl sm:text-6xl'>Merhaba Ben <span className='text-sky-500 underline'>Roxsy</span></h1>
           <p className='text-gray-400 text-lg sm:text-xl mt-2 p-1'>Full-Stack geliştiriciyim. Sakarya da yaşıyorum.<br />16 yaşındayım.</p>
         </div>
       </div>
