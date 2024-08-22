@@ -5,6 +5,8 @@ import { Helmet } from 'react-helmet';
 // lourity
 const Home = () => {
   const projects = [
+    
+    { name: "Kappi Develoment", description: "Kullanıcıların metin ve kodlarını geçici olarak paylaşabildiği bir platform (08.04.2024)", url: "https://discord.com/invite/vjk7XAHaQf", language: "react", extraLanguage: "typescript" },
     { name: "ViaApp", description: "Discord sunucunuzu yeni nesil sistemlerle yönetin (09.04.2024)", url: "https://viaappdc.xyz", language: "react", extraLanguage: "typescript" },
     { name: "Pastebin", description: "Kullanıcıların metin ve kodlarını geçici olarak paylaşabildiği bir platform (08.04.2024)", url: "https://pastebin.com.tr", language: "react", extraLanguage: "typescript" },
     { name: "Raven", description: "Ücretsiz projelerin paylaşıldığı bir platform (22.01.2024)", url: "https://ravendev.xyz", language: "react", extraLanguage: "typescript" },
@@ -20,8 +22,8 @@ const Home = () => {
   return (
     <div>
       <Helmet>
-        <title>Lourity - Projeler</title>
-        <meta name="description" content="Lourity'nin geliştirdiği projeleri inceleyin. Web geliştirme, Discord botları ve daha fazlası." />
+        <title>Roxsy - Projeler</title>
+        <meta name="description" content="Roxsy'nin geliştirdiği projeleri inceleyin. Web geliştirme, Discord botları ve daha fazlası." />
         <meta property="og:image" content="/logo.png" />
         <meta name="theme-color" content="#0ea5e9" />
       </Helmet>
