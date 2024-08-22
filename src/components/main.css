@@ -15,11 +15,11 @@ p {
 }
 
 ::selection {
-    background-color: #0ea5e9;
+    background-color: #e50914; /* Kırmızı renk */
     color: #fff;
 }
 
 ::-moz-selection {
-    background-color: #0ea5e9;
+    background-color: #e50914; /* Kırmızı renk */
     color: #fff;
 }
