@@ -7,7 +7,7 @@ const About = () => {
         <div>
             <Helmet>
                 <title>Roxsy - Hakkımda</title>
-                <meta name="description" content="Web tabanlı uygulamalar geliştiriyor ve Discord botları ile ilgileniyorum. Portföyüm ve becerilerim için URL lourity adresini ziyaret edin." />
+                <meta name="description" content="Web tabanlı uygulamalar geliştiriyor ve Discord botları ile ilgileniyorum. Portföyüm ve becerilerim için URL Roxsy adresini ziyaret edin." />
                 <meta property="og:image" content="/logo.png" />
                 <meta name="theme-color" content="#0ea5e9" />
             </Helmet>
@@ -21,10 +21,10 @@ const About = () => {
                 <div className='py-0 px-0 sm:py-8 sm:px-20'>
                     <div className='flex gap-2 py-8 px-20'>
                         <img className='w-12 h-12 rounded-md mt-2 sm:mt-0' src="/lourity.jpeg" alt="lourity" />
-                        <span className='font-bold text-2xl text-gray-300 sm:mt-2'>Lourity kimdir?</span>
+                        <span className='font-bold text-2xl text-gray-300 sm:mt-2'>Roxsy kimdir?</span>
                     </div>
                     <div className='p-4 sm:p-1'>
-                        <h2 className='text-lg text-gray-300 font-medium'>Merhaba, ben Lourity!</h2>
+                        <h2 className='text-lg text-gray-300 font-medium'>Merhaba, ben Roxsy!</h2>
                         <p className='text-gray-400 mt-1'>16 yaşında bir Full Stack Developer olarak, 4 yıldır yazılım dünyasına merak salmış, bu alanda kendimi geliştirmeye çalışan biriyim. Sakarya'da yaşıyorum ve aynı zamanda Youtube platformunda Discord botları ve yazılım ile ilgili videolar paylaşarak topluluğa katkıda bulunmaya çalışıyorum. Tüm bunlarla birlikte, lise eğitimimi sürdürürken yazılımla ilgili lisans eğitimi almayı hedefliyor ve bu alanda daha ileri düzeyde çalışmalar yapmak istiyorum.</p>
                         <h2 className='text-lg text-gray-300 font-medium mt-2'>Yazılım yolculuğum</h2>
                         <p className='text-gray-400 mt-1'>Yazılım yolculuğuma ilk adımlarımı attığımda, web tabanlı geliştirme konusunda bir tutku hissettim. Şu anda favori dillerim arasında React, HTML, CSS ve JavaScript bulunuyor. Bu dilleri kullanarak etkileyici ve kullanıcı dostu web uygulamaları geliştirmek benim için heyecan verici bir deneyim.</p>
