@@ -17,7 +17,7 @@ const Navbar = () => {
 
             <div className='flex justify-center sm:justify-between p-2 py-4 mt-4 mx-2 sm:mx-8 lg:mx-60 text-center bg-gray-700 rounded-full shadow-md'>
                 <div className='mt-1 hidden sm:block'>
-                    <span className='font-bold m-8 text-md'>Lourity</span>
+                    <span className='font-bold m-8 text-md'>Roxsy</span>
                 </div>
                 <div className='flex gap-2 sm:border rounded-2xl border-sky-500 px-2'>
                     <a rel='nofollow' onClick={() => navigate('/')} className='cursor-pointer duration-300 font-medium rounded-md px-3 py-1 hover:text-sky-300'>Anasayfa</a>
@@ -25,13 +25,13 @@ const Navbar = () => {
                     <a rel='nofollow' onClick={() => navigate('/about')} className='cursor-pointer duration-300 font-medium rounded-2xl px-3 py-1 hover:text-sky-300'>Hakkımda</a>
                 </div>
                 <div className='flex gap-4'>
-                    <a rel='nofollow' href='https://discord.com/users/1123906177923813396' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://discord.com/users/1229118399439962282' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-discord"></i>
                     </a>
-                    <a rel='nofollow' href='https://github.com/lourityy' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://github.com/Roxsy1545' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-github"></i>
                     </a>
-                    <a rel='nofollow' href='https://www.youtube.com/@lourityy' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://youtube.com/@roxsy_ryl?si=4DZ8HjjlxdXFDTD4' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-youtube"></i>
                     </a>
                 </div>
