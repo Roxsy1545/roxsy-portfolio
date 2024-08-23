@@ -4,7 +4,7 @@ const { Client, GatewayIntentBits, EmbedBuilder } = require('discord.js');
 
 // Discord bot ayarları
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
-const DISCORD_TOKEN = 'MTI3NjU0NzUzMTExNDk0MjUxNQ.GDsqOZ.1zWsQCwpA5xyDVG-EBW3loTlaiOOE2hI3WLg9Y';
+const DISCORD_TOKEN = 'MTI3NjU0NzUzMTExNDk0MjUxNQ.GmZFoX.guolT6vhQzTdC9LnXEZ9_xok9L5APYDcRChZz8';
 const CHANNEL_ID = '1276548997074391112';
 
 client.once('ready', () => {
